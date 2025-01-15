@@ -1,2 +1,1 @@
-# hello-world
- This repository is for practicing the GitHub Flow.
+am Devis Bagarukayo and a new user og git
